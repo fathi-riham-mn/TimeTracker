@@ -1,8 +1,6 @@
 # Time Tracker
 
-A simple time tracking application made as a part of "Programming for Windows"
-course at the University of Finance and Administration,
-Department of Informatics and Mathematics.
+A simple time tracking application .
 Written in C#/.NET 4 and using the WinForms library,
 released publicly as open-source software under the MIT license.
 
